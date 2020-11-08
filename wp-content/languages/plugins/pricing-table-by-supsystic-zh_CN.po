@@ -1,0 +1,1496 @@
+# Translation of Plugins - Pricing Table by Supsystic - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Pricing Table by Supsystic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-23 09:21:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Pricing Table by Supsystic - Stable (latest release)\n"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "该模块没有配置选项"
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "属性"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "单击以设置字段“id”和“class”"
+
+#: classes/field.php:316
+msgid "height"
+msgstr "高度"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "宽度"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "外型尺寸"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "添加单选按钮"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "添加项目"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "添加复选框"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "不适用"
+
+#: classes/model.php:230
+msgid "Empty or invalid ID"
+msgstr "空或无效的ID"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "ID"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "类"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "未选中的"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "绝对"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "税率"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "您没有品牌"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "品牌"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "您没有类别"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "分类"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "国家/地区"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "目的地"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "地址"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "适用于"
+
+#: classes/validator.php:88
+msgid "%s is already registered"
+msgstr "%s已被注册"
+
+#: classes/validator.php:85 classes/validator.php:101
+msgid "Invalid %s"
+msgstr "无效的%s"
+
+#: classes/validator.php:43
+msgid "Invalid numeric value for %s"
+msgstr "%s数值无效"
+
+#: classes/validator.php:30
+msgid "Invalid length for %s, max length is %s"
+msgstr "%s长度无效，最大长度为%s"
+
+#: classes/html.php:660
+msgid "Select %s"
+msgstr "选择%s"
+
+#: classes/html.php:636
+msgid "OFF"
+msgstr "关"
+
+#: classes/html.php:635
+msgid "ON"
+msgstr "开"
+
+#: classes/frame.php:136
+msgid "You have no permissions to view this page"
+msgstr "您无权查看此页面"
+
+#: classes/table.php:294
+msgid "Database error. Please contact your developer."
+msgstr "数据库错误。请与您的开发商联系。"
+
+#: classes/table.php:278
+msgid "Nothig to update"
+msgstr "没有更新"
+
+#: classes/modInstaller.php:201
+msgid "Error Activating module"
+msgstr "错误激活模块"
+
+#: classes/modInstaller.php:184
+msgid "Error Deactivation module"
+msgstr "错误停用模块"
+
+#: classes/modInstaller.php:155
+msgid "Error Activate module"
+msgstr "错误激活模块"
+
+#: classes/modInstaller.php:149
+msgid "Install %s failed"
+msgstr "安装%s失败"
+
+#: classes/modInstaller.php:127
+msgid "No installation file were found"
+msgstr "找不到安装文件"
+
+#: classes/modInstaller.php:123
+msgid "No modules were found in installation file"
+msgstr "在安装文件中找不到模块"
+
+#: classes/modInstaller.php:110
+msgid "No XML file were found"
+msgstr "找不到XML文件"
+
+#: classes/modInstaller.php:108
+msgid "Invalid XML file"
+msgstr "无效的XML文件"
+
+#: classes/modInstaller.php:104
+msgid "No modules were found in XML file"
+msgstr "在XML文件中找不到模块"
+
+#: classes/modInstaller.php:76
+msgid "Can not create module directory. Try to set permission to "
+msgstr "无法创建模块目录。尝试将权限设置为"
+
+#: classes/modInstaller.php:37
+msgid "%s is not plugin module"
+msgstr "%s不是插件模块"
+
+#: classes/modInstaller.php:34
+msgid "Move files for %s failed"
+msgstr "移动%s文件失败"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "传播这个词！"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "此处为您的WordPress网站提供更多插件！"
+
+#: modules/adminmenu/mod.php:13
+msgid "Cool WordPress plugins from supsystic.com developers. I tried %s - and this was what I need! #supsystic.com"
+msgstr "来自supsystic.com开发人员的酷WordPress插件。我尝试了%s这就是我所需要的！＃supsystic.com"
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid "Bad, please contact your hosting provider and ask them to setup mail functionality on your server."
+msgstr "不好，请与您的托管服务提供商联系，请他们在您的服务器上设置邮件功能。"
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and working fine."
+msgstr "太棒了！邮件功能已经过测试，可以正常工作。"
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr "否，我需要联系我的托管服务提供商以解决邮件功能问题。"
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It work!"
+msgstr "是!这行得通！"
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you received test email?"
+msgstr "您收到测试邮件了吗？"
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allow you to check your server mail functionality"
+msgstr "此选项使您可以检查服务器邮件功能"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "发送测试"
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "发送测试电子邮件至"
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr "现在，检查您的电子邮件收件箱/垃圾邮件文件夹中是否有测试邮件。"
+
+#: modules/mail/mod.php:51
+msgid "Email address used for all email notifications from plugin"
+msgstr "用于插件发送的所有电子邮件通知的电子邮件地址"
+
+#: modules/mail/mod.php:51
+msgid "Notify Email"
+msgstr "通知电邮"
+
+#: modules/mail/mod.php:50
+msgid "Mail function tested and work"
+msgstr "邮件功能经过测试并可以正常工作"
+
+#: modules/mail/mod.php:48
+msgid "Mail"
+msgstr "邮件"
+
+#: modules/mail/mod.php:35
+msgid "Can not send email - problem with send server"
+msgstr "无法发送电子邮件-发送服务器出现问题"
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "空的电子邮件地址"
+
+#: modules/mail/models/mail.php:8
+msgid "This is test email for testing email functionality on your site, %s."
+msgstr "这是测试电子邮件，用于测试您网站%s上的电子邮件功能。"
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionslity"
+msgstr "测试电子邮件功能"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:64
+msgid "Copy"
+msgstr "复制"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:63
+msgid "New Name"
+msgstr "新名字"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:60
+msgid "Clone Table"
+msgstr "克隆表"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:56
+msgid "Delete"
+msgstr "删除"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:48
+msgid "Clone"
+msgstr "克隆"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:46
+msgid "Clone to New Table"
+msgstr "克隆到新表"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:42
+#: modules/tables/views/tpl/tablesEditFormControls.php:44
+#: modules/tables/views/tpl/tablesEditFormControls.php:79
+msgid "Edit HTML"
+msgstr "编辑HTML"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:38
+#: modules/tables/views/tpl/tablesEditFormControls.php:40
+#: modules/tables/views/tpl/tablesEditFormControls.php:73
+msgid "Edit Css"
+msgstr "编辑CSS"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:32
+msgid "Preview"
+msgstr "预览"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:26
+msgid "Save all changes"
+msgstr "保存所有更改"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:11
+msgid "PHP code"
+msgstr "PHP代码"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:10
+msgid "Shortcode"
+msgstr "简码"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:1
+msgid "Click to Edit"
+msgstr "点击编辑"
+
+#: modules/tables/views/tpl/tablesImportExport.php:48
+msgid "Success"
+msgstr "成功"
+
+#: modules/tables/views/tpl/tablesImportExport.php:47
+msgid "Incorrect data!"
+msgstr "数据不正确！"
+
+#: modules/tables/views/tpl/tablesImportExport.php:8
+#: modules/tables/views/tpl/tablesImportExport.php:27
+msgid "Export"
+msgstr "导出"
+
+#: modules/tables/views/tpl/tablesImportExport.php:5
+#: modules/tables/views/tpl/tablesImportExport.php:52
+msgid "Import"
+msgstr "导入"
+
+#: modules/tables/views/tpl/tablesAdmin.php:21
+msgid "You have no Tables for now. <a href=\"%s\" style=\"font-style: italic;\">Create</a> your First Table!"
+msgstr "您暂时没有表格。<a href=\"%s\" style=\"font-style: italic;\">创建</a>您的第一个表格！"
+
+#: modules/tables/views/tpl/tablesImportExport.php:14
+#: modules/tables/views/tpl/tablesImportExport.php:15
+#: modules/tables/views/tpl/tablesAdmin.php:11
+#: modules/tables/views/tpl/tablesAdmin.php:12
+msgid "Search"
+msgstr "搜索"
+
+#: modules/tables/views/tpl/tablesAdmin.php:5
+#: modules/tables/views/tpl/tablesAdmin.php:8
+msgid "Delete selected"
+msgstr "删除所选"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:58
+msgid "All current changes will be permanently deleted including toggle mod."
+msgstr "当前的所有更改将被永久删除，包括切换模式。"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:58
+msgid "Are you sure want to change your current template - to "
+msgstr "您确定要更改当前模板-"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:36
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:56
+msgid "Change Template"
+msgstr "更改模板"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:41
+msgid "Selected"
+msgstr "已选"
+
+#: classes/field.php:131 modules/tables/views/tpl/tablesAddNewAdmin.php:41
+msgid "Select"
+msgstr "选择"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:39
+msgid "Get in PRO"
+msgstr "获取专业版"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:16
+msgid "Table Name"
+msgstr "表名"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:7
+msgid "Choose Table Template. You can change it later."
+msgstr "选择表模板。您可以稍后进行更改。"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:5
+msgid "Change Template to any other from list below or <a class=\"button\" href=\"%s\">return to Table edit</a>"
+msgstr "从下面的列表中将模板更改为其他任何模板，或者<a class=\"button\" href=\"%s\">返回表格编辑</a>"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:816
+msgid "Remove Row"
+msgstr "删除行"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:808
+msgid "Edit Tooltip for Cell"
+msgstr "编辑单元格的工具提示"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:789
+msgid "Add Text"
+msgstr "添加文字"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:785
+msgid "Add One Cell"
+msgstr "加一格"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:780
+msgid "Combining with the next row"
+msgstr "与下一行结合"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:776
+msgid "Combining with the previous row"
+msgstr "与上一行结合"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:770
+msgid "Add row before"
+msgstr "在之前添加行"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:765
+msgid "Add row after"
+msgstr "在之后添加行"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:761
+msgid "Move cell"
+msgstr "移动单元格"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:729
+msgid "Select position for Badge"
+msgstr "选择徽章的位置"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:722
+msgid "Badge Text Color"
+msgstr "徽章文字颜色"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:715
+msgid "Badge Background Color"
+msgstr "徽章背景色"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:690
+msgid "Sale!"
+msgstr "特价！"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:689
+msgid "Badge Label"
+msgstr "徽章标签"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:681
+msgid "Badges Library"
+msgstr "徽章库"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:668
+msgid "Close"
+msgstr "关"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:664
+msgid "Nothing found for <span class=\"ptsNothingFoundKeys\"></span>, maybe try to search something else?"
+msgstr "没有找到<span class=\"ptsNothingFoundKeys\"></span>，也许尝试搜索其他内容？"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:661
+msgid "Search, for example - pencil, music, ..."
+msgstr "搜索，例如-铅笔，音乐，..."
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:656
+msgid "Icons Library"
+msgstr "图标库"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:475
+msgid "Icon Size"
+msgstr "图标大小"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:410
+#: modules/tables/views/tpl/tablesEditorFooter.php:470
+msgid "Change Icon"
+msgstr "更换图标"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:394
+#: modules/tables/views/tpl/tablesEditorFooter.php:512
+#: modules/tables/views/tpl/tablesEditorFooter.php:607
+msgid "Button"
+msgstr "按钮"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:361
+msgid "To"
+msgstr "至"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:356
+msgid "From"
+msgstr "从"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:353
+msgid "Schedule"
+msgstr "时间表"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:338
+msgid "Schedule column"
+msgstr "时间表栏"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:335
+msgid "Badge for Column"
+msgstr "徽章栏"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:298
+msgid "Background Image"
+msgstr "背景图"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:209
+#: modules/tables/views/tpl/tablesEditorFooter.php:388
+#: modules/tables/views/tpl/tablesEditorFooter.php:601
+msgid "Icon"
+msgstr "图标"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:203
+#: modules/tables/views/tpl/tablesEditorFooter.php:382
+#: modules/tables/views/tpl/tablesEditorFooter.php:506
+msgid "Image / Video"
+msgstr "图片/视频"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:188
+#: modules/tables/views/tpl/tablesEditorFooter.php:414
+#: modules/tables/views/tpl/tablesEditorFooter.php:479
+msgid "Color"
+msgstr "颜色"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:157
+#: modules/tables/views/tpl/tablesEditorFooter.php:233
+#: modules/tables/views/tpl/tablesEditorFooter.php:450
+#: modules/tables/views/tpl/tablesEditorFooter.php:543
+#: modules/tables/views/tpl/tablesEditorFooter.php:637
+msgid "add nofollow attribute"
+msgstr "添加nofollow属性"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:153
+#: modules/tables/views/tpl/tablesEditorFooter.php:229
+#: modules/tables/views/tpl/tablesEditorFooter.php:446
+#: modules/tables/views/tpl/tablesEditorFooter.php:539
+#: modules/tables/views/tpl/tablesEditorFooter.php:633
+msgid "open link in a new window"
+msgstr "在新窗口中打开链接"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:148
+#: modules/tables/views/tpl/tablesEditorFooter.php:224
+#: modules/tables/views/tpl/tablesEditorFooter.php:441
+#: modules/tables/views/tpl/tablesEditorFooter.php:534
+#: modules/tables/views/tpl/tablesEditorFooter.php:628
+msgid "title"
+msgstr "标题"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:137
+#: modules/tables/views/tpl/tablesEditorFooter.php:143
+#: modules/tables/views/tpl/tablesEditorFooter.php:219
+#: modules/tables/views/tpl/tablesEditorFooter.php:273
+#: modules/tables/views/tpl/tablesEditorFooter.php:436
+#: modules/tables/views/tpl/tablesEditorFooter.php:529
+#: modules/tables/views/tpl/tablesEditorFooter.php:617
+#: modules/tables/views/tpl/tablesEditorFooter.php:623
+msgid "link"
+msgstr "链接"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:131
+#: modules/tables/views/tpl/tablesEditorFooter.php:162
+#: modules/tables/views/tpl/tablesEditorFooter.php:182
+#: modules/tables/views/tpl/tablesEditorFooter.php:238
+#: modules/tables/views/tpl/tablesEditorFooter.php:426
+#: modules/tables/views/tpl/tablesEditorFooter.php:455
+#: modules/tables/views/tpl/tablesEditorFooter.php:493
+#: modules/tables/views/tpl/tablesEditorFooter.php:548
+#: modules/tables/views/tpl/tablesEditorFooter.php:580
+#: modules/tables/views/tpl/tablesEditorFooter.php:642
+#: modules/tables/views/tpl/tablesEditorFooter.php:861
+msgid "Tooltip"
+msgstr "工具提示"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:125
+#: modules/tables/views/tpl/tablesEditorFooter.php:175
+#: modules/tables/views/tpl/tablesEditorFooter.php:420
+#: modules/tables/views/tpl/tablesEditorFooter.php:486
+#: modules/tables/views/tpl/tablesEditorFooter.php:573
+msgid "Link"
+msgstr "链接"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:117
+#: modules/tables/views/tpl/tablesEditorFooter.php:262
+#: modules/tables/views/tpl/tablesEditorFooter.php:587
+msgid "Video"
+msgstr "视频"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:109
+#: modules/tables/views/tpl/tablesEditorFooter.php:254
+#: modules/tables/views/tpl/tablesEditorFooter.php:565
+msgid "Select image"
+msgstr "选择图片"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:90
+msgid "Subscribe Settings"
+msgstr "订阅设置"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:82
+msgid "Add Field"
+msgstr "新增字段"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:71
+msgid "Background Image..."
+msgstr "背景图..."
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:57
+#: modules/tables/views/tpl/tablesEditorFooter.php:288
+#: modules/tables/views/tpl/tablesEditorFooter.php:323
+msgid "Fill Color"
+msgstr "填色"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:49
+msgid "Manage Slides"
+msgstr "管理幻灯片"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:41
+msgid "Add Menu Item"
+msgstr "添加菜单项"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:33
+msgid "Add Image"
+msgstr "添加图片"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:25
+msgid "Add Slide"
+msgstr "添加幻灯片"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:5
+msgid "Content align"
+msgstr "内容对齐"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:586
+msgid "Please be adviced that all columns in your table have enabled Fill color feature - so changing background color for table may not influence to all table view, or maybe will not influence to table view at all (depending of template that you selected for your table)."
+msgstr "请注意，表中的所有栏均已启用“填充颜色”功能-因此，更改表的背景颜色可能不会影响所有表视图，或者根本不会影响表视图（取决于您为表选择的模板） 。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:585
+msgid "Notice"
+msgstr "注意"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:508
+#: modules/tables/views/tpl/tablesEditAdmin.php:532
+#: modules/tables/views/tpl/tablesEditAdmin.php:557
+msgid "Default selected"
+msgstr "默认选择"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:447
+msgid "Switch name"
+msgstr "开关名称"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:437
+msgid "Choose switch button text color (not active position)"
+msgstr "选择开关按钮的文字颜色（无效位置）"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:431
+msgid "But. text color (not active)"
+msgstr "但。文字颜色（无效）"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:430
+msgid "Button text color (not active)"
+msgstr "按钮文字颜色（无效）"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:427
+msgid "Choose switch button text color"
+msgstr "选择开关按钮文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:421
+msgid "Switch but. text color"
+msgstr "切换但是。文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:420
+msgid "Button text color"
+msgstr "按钮文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:417
+msgid "Choose switch button background color"
+msgstr "选择开关按钮的背景色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:411
+msgid "Switch but. color"
+msgstr "切换但是。颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:410
+msgid "Button color"
+msgstr "按钮颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:406
+msgid "Choose switch button border color"
+msgstr "选择开关按钮边框颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:400
+msgid "Switch but. border color"
+msgstr "切换但是。边框颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:399
+msgid "Button border color"
+msgstr "按钮边框颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:393
+msgid "Select switch horizontal position"
+msgstr "选择开关水平位置"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:387
+msgid "Align"
+msgstr "对齐"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:382
+msgid "Choose vertical position for switch"
+msgstr "选择开关的垂直位置"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:376
+msgid "Select position"
+msgstr "选择位置"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:371
+msgid "Select switch type. Toggle button allows to show only first two options"
+msgstr "选择开关类型。开关按钮仅显示前两个选项"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:365
+msgid "Select type"
+msgstr "选择类型"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:360
+msgid "Text placed above the switch"
+msgstr "文字置于开关上方"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:197
+#: modules/tables/views/tpl/tablesEditorFooter.php:376
+#: modules/tables/views/tpl/tablesEditorFooter.php:500
+#: modules/tables/views/tpl/tablesEditorFooter.php:595
+#: modules/tables/views/tpl/tablesEditAdmin.php:354
+#: modules/tables/views/tpl/tablesEditAdmin.php:355
+msgid "Text"
+msgstr "文本"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:350
+msgid "Enable Switch Toggle.  You need add at list two options to use switch toggle button functionality!"
+msgstr "启用切换开关。您需要在列表中添加两个选项才能使用切换按钮功能！"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:344
+#: modules/tables/views/tpl/tablesEditAdmin.php:345
+msgid "Enable Switch Toggle"
+msgstr "启用切换开关"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:329
+msgid "To enable Toggle option order PRO version. As low as $29"
+msgstr "要启用切换选项，请订购PRO版本。低至$ 29"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:323
+msgid "Disable supsystic styles for tooltips in your pricing table"
+msgstr "在价格表中禁用工具提示的过时样式"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:320
+#: modules/tables/views/tpl/tablesEditAdmin.php:321
+msgid "Disable Custom Tooltip Styles"
+msgstr "禁用自定义工具提示样式"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:311
+msgid "Enb. Responsive Text"
+msgstr "启用. 响应 文字"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:310
+msgid "Enable Responsive Text"
+msgstr "启用响应文本"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:301
+msgid "Animate column when mouse is hovering on it. Will work ONLY on frontend, disabled in admin area WySiWyg editor as it can break it in edit mode."
+msgstr "当鼠标悬停在其上时，对栏进行动画处理。仅在前端工作，在管理区域WySiWyg编辑器中禁用，因为它可能会在编辑模式下中断它。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:300
+msgid "Enable Hover Animation"
+msgstr "启用悬停动画"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:291
+msgid "By ubchecking the box you hide description row in all columns."
+msgstr "选中该复选框，即可在所有列中隐藏说明行。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:290
+msgid "Enb. Description Row"
+msgstr "启用. 描述 行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:279
+msgid "By ubchecking the box you hide footer row in all columns. Usually it is last row in table."
+msgstr "选中该复选框，即可在所有栏中隐藏页脚行。通常它是表中的最后一行。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:277
+msgid "Enb. Footer Row"
+msgstr "启用. 页脚 行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:277
+msgid "Enb. Footer Column"
+msgstr "启用. 页脚 栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:272
+msgid "Enable Footer Row"
+msgstr "启用页脚行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:272
+msgid "Enable Footer Column"
+msgstr "启用页脚栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:261
+msgid "By unchecking the box you hide head row in all columns. Usually it is the first row in table."
+msgstr "通过取消选中此框，您可以在所有栏中隐藏标题行。通常它是表中的第一行。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:259
+msgid "Enb. Head Row"
+msgstr "启用. 标题 行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:259
+msgid "Enb. Head Column"
+msgstr "启用. 标题 栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:255
+msgid "Enable Head Row"
+msgstr "启用首行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:255
+msgid "Enable Head Column"
+msgstr "启用头栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:244
+msgid "Add additional description column into table. You can add there descriptions for your rows."
+msgstr "在表中添加其他描述栏。您可以在其中添加行的描述。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:242
+msgid "Enb. Desc. Col"
+msgstr "启用. 描述. 栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:242
+msgid "Enb. Desc. Row"
+msgstr "启用. 描述. 行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:239
+msgid "Enable Description Column"
+msgstr "启用描述栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:239
+#: modules/tables/views/tpl/tablesEditAdmin.php:289
+msgid "Enable Description Row"
+msgstr "启用描述行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:229
+msgid "Common text color for table. You can always specify text color for any text element inside table using text editor."
+msgstr "表格的常用文字颜色。您始终可以使用文本编辑器为表中的任何文本元素指定文本颜色。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:223
+msgid "Rows Text Color"
+msgstr "行文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:218
+msgid "Vertical padding for column."
+msgstr "栏的垂直边距。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:212
+msgid "Vert. Padding"
+msgstr "垂直边距"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:211
+msgid "Vertical Padding"
+msgstr "垂直边距"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:206
+msgid "Text color for table columns header element. You can always specify text color for any text element inside table using text editor."
+msgstr "表栏标题元素的文本颜色。您始终可以使用文本编辑器为表中的任何文本元素指定文本颜色。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:200
+msgid "Header Text Color"
+msgstr "标题文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:195
+msgid "Common background color for table."
+msgstr "表格的常用背景色。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:189
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:184
+msgid "Text color for table columns description element. You can always specify text color for any text element inside table using text editor."
+msgstr "表列描述元素的文本颜色。您始终可以使用文本编辑器为表中的任何文本元素指定文本颜色。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:178
+msgid "Desc. Text Color"
+msgstr "描述文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:177
+msgid "Description Text Color"
+msgstr "说明文字颜色"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:172
+msgid "Table align in page: left, center, right, none"
+msgstr "表格在页面中对齐：左，中，右，无"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:166
+msgid "Table Align"
+msgstr "表格对齐"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:161
+msgid "Font for table. You can always set other font for any text element using text editor tool. Just click on text - and start edit it!"
+msgstr "表的字体。您始终可以使用文本编辑器工具为任何文本元素设置其他字体。只需单击文本-并开始对其进行编辑！"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:156
+msgid "Font"
+msgstr "字体"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:148
+msgid "Column width (is indicated in pixels by default) at which table will go to responsive mode"
+msgstr "表格将进入响应模式的列宽（默认情况下以像素表示）"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:147
+#: modules/tables/views/tpl/tablesEditAdmin.php:217
+msgid "px"
+msgstr "像素"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:142
+msgid "Min Column Width"
+msgstr "最小栏宽"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:136
+msgid "When device screen is small (mobile device or some tablets) usually table will go into responsive mode: all columns will be shown one-by-one below each other. But if you need to disable this feature - you can do this with this option. This feature influences only on frontend table view."
+msgstr "当设备屏幕较小（移动设备或某些平板电脑）时，表格通常会进入响应模式：所有栏将在彼此下方一一显示。但是，如果您需要禁用此功能-您可以使用此选项进行操作。此功能仅影响前端表视图。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:135
+msgid "Enb. Responsivity"
+msgstr "启用. 响应能力"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:134
+msgid "Enable Responsivity"
+msgstr "启用响应能力"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:125
+msgid "Text align in table: left, center, right"
+msgstr "表格中的文字对齐：左，中，右"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:119
+msgid "Text Align"
+msgstr "文字对齐"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:113
+msgid "Set width for each column. Total table width in this case will be calculated as sum of all your columns width."
+msgstr "设置每栏的宽度。在这种情况下，表格总宽度将计算为所有栏宽度的总和。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:107
+msgid "Column Width"
+msgstr "栏宽"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:97
+msgid "Set width for table. Width for each column in this case will be calculated as width of whole table divided for total columns number."
+msgstr "设置表格的宽度。在这种情况下，每栏的宽度将计算为整个表格的宽度除以总栏数。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:77
+msgid "Tbl. Width"
+msgstr "表格 宽度"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:76
+msgid "Table Width"
+msgstr "表宽度"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:46
+#: modules/tables/views/tpl/tablesEditAdmin.php:64
+msgid "New column will be added in the end of your table."
+msgstr "新栏将添加到表的末尾。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:44
+#: modules/tables/views/tpl/tablesEditAdmin.php:66
+msgid "New row will be added in the end of your table rows area."
+msgstr "新行将添加到表行区域的末尾。"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:40
+#: modules/tables/views/tpl/tablesEditAdmin.php:61
+msgid "Add Col"
+msgstr "添加列"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:98
+#: modules/tables/views/tpl/tablesEditAdmin.php:39
+msgid "Add Column"
+msgstr "添加栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:36
+#: modules/tables/views/tpl/tablesEditAdmin.php:37
+#: modules/tables/views/tpl/tablesEditAdmin.php:61
+msgid "Add Row"
+msgstr "添加行"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:29
+#: modules/tables/views/tpl/tablesEditAdmin.php:54
+msgid "Cols"
+msgstr "列"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:28
+msgid "Columns"
+msgstr "栏"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:25
+#: modules/tables/views/tpl/tablesEditAdmin.php:26
+#: modules/tables/views/tpl/tablesEditAdmin.php:54
+msgid "Rows"
+msgstr "行数"
+
+#: modules/tables/views/tables.php:69 modules/tables/views/tables.php:100
+msgid "Cannot find required Table"
+msgstr "找不到所需的表"
+
+#: modules/tables/views/tables.php:59
+msgid "Modify Table Template"
+msgstr "修改表格模板"
+
+#: modules/tables/controller.php:261
+msgid "Done, redirecting to new Table..."
+msgstr "完成，重定向到新表..."
+
+#: modules/tables/mod.php:29
+msgid "Tables Import / Export"
+msgstr "表导入/导出"
+
+#: modules/tables/mod.php:26
+msgid "Show All Tables"
+msgstr "显示所有表格"
+
+#: modules/tables/mod.php:23
+msgid "Edit"
+msgstr "编辑"
+
+#: modules/tables/mod.php:20
+msgid "Add New Table"
+msgstr "添加新表"
+
+#: modules/tables/models/tables.php:321
+msgid "Where is ID?"
+msgstr "ID在哪里？"
+
+#: modules/tables/models/tables.php:304
+msgid "Provided data was corrupted"
+msgstr "提供的数据已损坏"
+
+#: modules/tables/models/tables.php:196
+msgid "Name can not be empty"
+msgstr "名称不能为空"
+
+#: classes/model.php:188 modules/tables/models/tables.php:47
+#: modules/tables/models/tables.php:198
+msgid "Invalid ID"
+msgstr "无效的ID"
+
+#: classes/model.php:186 classes/model.php:198
+#: modules/tables/models/tables.php:45 modules/tables/models/tables.php:65
+msgid "Database error detected"
+msgstr "检测到数据库错误"
+
+#: modules/tables/models/tables.php:32 modules/tables/models/tables.php:323
+msgid "Please enter Name"
+msgstr "请输入姓名"
+
+#: modules/tables/models/tables.php:30
+msgid "Please select Table template from list below"
+msgstr "请从下面的列表中选择表格模板"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "PRO选项"
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:45
+msgid "Turned Off %s"
+msgstr "已关闭%s"
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:44
+msgid "Turned On %s"
+msgstr "已开启%s"
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/tables/views/tpl/tablesEditFormControls.php:28
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:21
+#: modules/tables/views/tpl/tablesEditorFooter.php:751
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "保存"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "保存所有选项"
+
+#: modules/options/views/tpl/optionsAdminPage.php:38
+msgid "Please be advised that this option is available only in <a target=\"_blank\" href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> today and get this and other PRO option for your Pricing Tables!"
+msgstr "请注意，此选项仅在<a target=\"_blank\" href=\"%s\"> PRO版本</a>中可用。您今天就可以<a target=\"_blank\" href=\"%s\" class=\"button\">获取PRO </a>并为您的定价表获取此PRO选项和其他PRO选项！"
+
+#: modules/options/views/tpl/optionsAdminPage.php:36
+msgid "Improve Free version"
+msgstr "改进免费版"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "主页转到这里！"
+
+#: classes/controller.php:214 classes/controller.php:222
+#: modules/mail/controller.php:23 modules/tables/controller.php:6
+#: modules/tables/controller.php:135 modules/tables/controller.php:144
+#: modules/tables/controller.php:152 modules/tables/controller.php:270
+#: modules/options/controller.php:6
+msgid "Done"
+msgstr "完成了"
+
+#: modules/options/mod.php:119
+msgid "By default our plugin is using CDN server to store there part of it's files - images, javascript and CSS libraries. This was designed in that way to reduce plugin size, make it lighter and easier for usage. But if you need to store all files - on your server - you can disable this option here, then upload plugin CDN files from <a href=\"%s\" target=\"_blank\">here</a> to your own site to %s folder."
+msgstr "默认情况下，我们的插件使用CDN服务器在其中存储一部分文件 - 图像，JavaScript和CSS库。这样做是为了减小插件的大小，使其更轻巧，更易于使用。但是，如果您需要在服务器上存储所有文件 - 您可以在此处禁用此选项，然后将这<a href=\"%s\" target=\"_blank\">插件CDN文件</a>上传到您自己的站点%s文件夹。"
+
+#: modules/options/mod.php:119
+msgid "Disable CDN usage"
+msgstr "禁用CDN使用"
+
+#: modules/options/mod.php:118
+msgid "By default our plugin will make autosave of all your changes that you do in Pricing Table edit screen, but you can disable this feature here. Just don't forget to save your Pricing Table each time you make any changes in it."
+msgstr "默认情况下，我们的插件将自动保存您在“价格表”编辑屏幕中所做的所有更改，但是您可以在此处禁用此功能。只是别忘了每次更改价格表时都要保存它。"
+
+#: modules/options/mod.php:118
+msgid "Disable autosave in Pricing Table"
+msgstr "在价格表中禁用自动保存"
+
+#: modules/options/mod.php:117
+msgid "User with the next roles will have access to the whole plugin from admin area."
+msgstr "具有以下角色的用户将可以从管理区域访问整个插件。"
+
+#: modules/options/mod.php:117
+msgid "User with such role can use plugin"
+msgstr "具有此角色的用户可以使用插件"
+
+#: modules/options/mod.php:116
+msgid "We are trying to make our plugin better for you, and you can help us with this. Just check this option - and small promotion link will be added in the bottom of your Pricing Table. This is easy for you - but very helpful for us!"
+msgstr "我们正在努力使我们的插件更适合您，您可以在此方面为我们提供帮助。只需选中此选项-小小促销链接将添加到定价表的底部。这对您来说很容易-但对我们很有帮助！"
+
+#: modules/options/mod.php:116
+msgid "Enable promo link"
+msgstr "启用促销链接"
+
+#: modules/options/mod.php:115
+msgid "Send information about what plugin options you prefer to use, this will help us to make our solution better for You."
+msgstr "发送有关您更喜欢使用哪些插件选项的信息，这将帮助我们为您提供更好的解决方案。"
+
+#: modules/options/mod.php:115
+msgid "Send usage statistics"
+msgstr "发送使用情况统计信息"
+
+#: modules/options/mod.php:113
+msgid "General"
+msgstr "常规"
+
+#: modules/adminmenu/mod.php:14 modules/options/mod.php:46
+msgid "Settings"
+msgstr "设置"
+
+#: modules/options/models/options.php:63
+msgid "Empty data to save option"
+msgstr "清空数据以保存选项"
+
+#: modules/options/models/modules.php:50
+msgid "Error module ID"
+msgstr "错误模块ID"
+
+#: modules/options/models/modules.php:47
+msgid "Module Update Failed"
+msgstr "模块更新失败"
+
+#: modules/options/models/modules.php:32
+msgid "Module Updated"
+msgstr "模块更新"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:82
+msgid "Kinsta Hosting"
+msgstr "Kinsta主机"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:81
+msgid "Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr "Supsystic的数字出版物WordPress插件，用于杂志，目录，作品集。将图像，文章，PDF转换为翻页书。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:81
+msgid "Digital Publication Plugin"
+msgstr "数字出版物插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:80
+msgid "Display custom Google Maps. Set markers and locations with text, images, categories and links. Customize google map in a simple and intuitive way."
+msgstr "显示自定义的Google地图。使用文本，图像，类别和链接设置标记和位置。以简单直观的方式自定义Google地图。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:80
+msgid "Google Maps Easy"
+msgstr "Google Maps Easy"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:79
+msgid "Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr "由Supsystic备份和还原WordPress插件可为您的WordPress网站提供快速便捷的DropBox，FTP，Amazon S3和Google Drive备份。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:79
+msgid "Backup Plugin"
+msgstr "备份插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:78
+msgid "Coming soon page with drag-and-drop builder or under construction | maintenance mode to notify visitors and collects emails."
+msgstr "使用拖放式生成器或正在建设中的即将发布的页面|维护模式，以通知访问者并收集电子邮件。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:78
+msgid "Coming Soon Plugin"
+msgstr "Coming Soon 插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:77
+msgid "It’s never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+msgstr "使用表构建器创建和管理定价和比较表从未如此简单。可以通过单击鼠标来自定义表的任何元素。"
+
+#: modules/tables/mod.php:77
+#: modules/supsystic_promo/views/supsystic_promo.php:77
+msgid "Pricing Table"
+msgstr "定价表"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+msgid "Be closer to your visitors and customers with Live Chat Support by Supsystic. Help you visitors, support them in real-time with exceptional Live Chat WordPress plugin by Supsystic."
+msgstr "通过Supsystic的实时聊天支持，可以更接近您的访客和客户。通过Supsystic出色的Live Chat WordPress插件，可以帮助您的访客实时支持他们。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+msgid "Live Chat Plugin"
+msgstr "实时聊天插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:75
+msgid "Social share buttons to increase social traffic and popularity. Social sharing to Facebook, Twitter and other social networks."
+msgstr "社交分享按钮可增加社交流量和知名度。与Facebook，Twitter和其他社交网络的社交共享。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:75
+msgid "Social Share Buttons"
+msgstr "社交分享按钮"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:74
+msgid "Creating slideshows with Slider plugin is fast and easy. Simply select images from your WordPress Media Library, Flickr, Instagram or Facebook, set slide captions, links and SEO fields all from one page."
+msgstr "使用Slider插件创建幻灯片很容易。只需从WordPress媒体库，Flickr，Instagram或Facebook中选择图像，即可从一页设置幻灯片标题，链接和SEO字段。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:74
+msgid "Slider Plugin"
+msgstr "滑块插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:73
+msgid "Create and manage beautiful data tables with custom design. No HTML knowledge is required."
+msgstr "通过自定义设计创建和管理漂亮的数据表。不需要HTML知识。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:73
+msgid "Data Tables Generator"
+msgstr "数据表生成器"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:72
+msgid "Create online membership community with custom user profiles, roles, FrontEnd registration and login. Members Directory, activity, groups, messages."
+msgstr "使用自定义用户配置文件，角色，FrontEnd注册和登录创建在线会员社区。成员目录，活动，组，消息。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:72
+msgid "Membership by Supsystic"
+msgstr "Supsystic会员资格"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:71
+msgid "Supsystic Newsletter plugin for automatic mailing of your letters. You will have no need to control it or send them manually. No coding, hard skills or long hours of customizing are required."
+msgstr "Supsystic Newsletter插件，用于自动邮寄您的信件。您将无需控制它或手动发送它们。不需要编码，技巧或长时间的自定义。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:71
+msgid "Newsletter Plugin"
+msgstr "Newsletter 插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:70
+msgid "One of the best plugin for creating Contact Forms on your WordPress site. Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr "在WordPress网站上创建联系表格的最佳插件之一。可变字体，背景，添加字段的选项等。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:70
+msgid "Contact Form Plugin"
+msgstr "联系表单插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "Photo Gallery Plugin with a great number of layouts will help you to create quality respectable portfolios and image galleries."
+msgstr "具有大量布局的Photo Gallery插件将帮助您创建质量可观的作品集和图像画廊。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "Photo Gallery Plugin"
+msgstr "Photo Gallery 插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:68
+msgid "The Best WordPress PopUp option plugin to help you gain more subscribers, social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr "最好的WordPress PopUp选项插件，可帮助您获得更多的订阅者，社交关注者或广告。带有友好选项的响应式弹出窗口。"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:68
+msgid "Popup Plugin"
+msgstr "弹出插件"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+#: modules/supsystic_promo/views/supsystic_promo.php:51
+#: modules/supsystic_promo/views/supsystic_promo.php:53
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "No"
+msgstr "没有"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+#: modules/supsystic_promo/views/supsystic_promo.php:51
+#: modules/supsystic_promo/views/supsystic_promo.php:53
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Yes"
+msgstr "是"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:66
+msgid "Your email was send, we will try to respond to you as soon as possible. Thank you for support!"
+msgstr "您的电子邮件已发送，我们将尝试尽快回复您。谢谢你的支持！"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:57
+msgid "Send email"
+msgstr "发电子邮件"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:25
+msgid "Contact form"
+msgstr "联系表单"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:12
+msgid "Server Settings"
+msgstr "服务器设置"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:6
+#: modules/supsystic_promo/views/supsystic_promo.php:82
+msgid "If you want to host a business site or a blog, Kinsta managed WordPress hosting is the best place to stop on. Without any hesitation, we can say Kinsta is incredible when it comes to uptime and speed."
+msgstr "如果您想托管一个商业站点或博客，则由Kinsta管理的WordPress托管是最好的选择。毫无疑问，我们可以说Kinsta在正常运行时间和速度方面令人难以置信。"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:35
+msgid "Download"
+msgstr "下载"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:31
+msgid "More info"
+msgstr "更多信息"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:6
+msgid "Check It out"
+msgstr "看看这个"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:3
+msgid "Get plugins bundle today and save over 80%"
+msgstr "立即获取插件包，节省80％以上"
+
+#: modules/supsystic_promo/views/tpl/discountMsg.php:38
+msgid "Buy Now"
+msgstr "立即购买"
+
+#: modules/supsystic_promo/views/tpl/discountMsg.php:37
+msgid "Upgrade to bundle and get an access to <a href=\"%s\" target=\"_blank\">all 14 plugins</a> more than 80%% off!"
+msgstr "升级到捆绑包，即可获得80 %%折扣的<a href=\"%s\" target=\"_blank\">所有14个插件</a>！"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:9
+msgid "Support"
+msgstr "支持"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "版"
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "请输入有效的电子邮件地址"
+
+#: classes/validator.php:71 modules/supsystic_promo/controller.php:39
+msgid "Please enter %s"
+msgstr "请输入%s"
+
+#: classes/validator.php:78 modules/supsystic_promo/controller.php:39
+msgid "Please select %s"
+msgstr "请选择%s"
+
+#: modules/supsystic_promo/controller.php:23
+msgid "Please don't send contact requests so often - wait for response for your previous requests."
+msgstr "请不要经常发送联系请求-等待您之前的请求得到答复。"
+
+#: modules/supsystic_promo/controller.php:7
+msgid "Information was saved. Thank you!"
+msgstr "信息已保存。谢谢！"
+
+#: modules/supsystic_promo/mod.php:205
+msgid "Hello Supsystic Team!"
+msgstr "Hello Supsystic 团队!"
+
+#: modules/supsystic_promo/mod.php:205
+msgid "Message"
+msgstr "信息"
+
+#: modules/supsystic_promo/mod.php:203
+msgid "Other"
+msgstr "其他"
+
+#: modules/supsystic_promo/mod.php:202
+msgid "Require a new functionallity"
+msgstr "需要新的功能"
+
+#: modules/supsystic_promo/mod.php:201
+msgid "Report a bug"
+msgstr "报告错误"
+
+#: modules/supsystic_promo/mod.php:200
+msgid "Plugin options"
+msgstr "插件选项"
+
+#: modules/supsystic_promo/mod.php:199
+msgid "Topic"
+msgstr "主题"
+
+#: modules/supsystic_promo/mod.php:198
+msgid "Subject"
+msgstr "主题"
+
+#: modules/supsystic_promo/mod.php:197
+msgid "Website"
+msgstr "网站"
+
+#: modules/supsystic_promo/mod.php:196
+msgid "Your email"
+msgstr "你的邮件"
+
+#: modules/supsystic_promo/mod.php:195
+msgid "Your name"
+msgstr "你的名字"
+
+#: modules/supsystic_promo/mod.php:125
+msgid "Welcome to Supsystic"
+msgstr "欢迎来到Supsystic"
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Featured Plugins"
+msgstr "精选插件"
+
+#: modules/supsystic_promo/mod.php:96
+msgid "Overview"
+msgstr "概览"
+
+#: modules/supsystic_promo/mod.php:47
+msgid "Check out <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" data-statistic-code=\"hide\">our other Plugins</a>! Years of experience in WordPress plugins developers made those list unbreakable!"
+msgstr "查看<a href=\"%s\" target=\"_blank\" class=\"button button-primary\" data-statistic-code=\"hide\">我们的其他插件</a>！多年的WordPress插件开发人员经验使这些列表足够可靠！"
+
+#: modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "跳过"
+
+#: modules/supsystic_promo/mod.php:42
+msgid "<p>And today, if you want, - you can help us. This is really simple - you can just add small promo link to our site under your tables. This is small step for you, but a big help for us! Sure, if you don't want - just skip this and continue enjoy our software!</p>"
+msgstr "<p>今天，如果您愿意-您可以帮助我们。这非常简单-您可以在表格下向我们的网站添加小型促销链接。这对您来说是很小的一步，但对我们却有很大帮助！当然，如果您不想要-跳过此步骤，继续享受我们的软件！</p>"
+
+#: modules/supsystic_promo/mod.php:41
+msgid "<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> company I would like to thank you for been with us, and I really hope that our software helped you.</p>"
+msgstr "<p>我代表整个<a href=\"https://supsystic.com/\" target=\"_blank\"> supsystic.com </a>公司感谢您与我们在一起，我真的希望我们的软件对您有所帮助。</p>"
+
+#: modules/supsystic_promo/mod.php:40
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3> 使用%s插件超过了11天-恭喜！</h3>"
+
+#: modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "我已经做了"
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "不，也许以后"
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "好，你应得的"
+
+#: modules/supsystic_promo/mod.php:36
+msgid "<h3>Hey, I noticed you just use %s over a week – that’s awesome!</h3><p>Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr "<h3>嘿，我注意到您一周内只使用%s ，太棒了！</h3><p>您能帮我一个大忙，并在WordPress上给它5星级吗？只是为了帮助我们宣传并增强我们的动力。</p>"
+
+#. Author URI of the plugin
+msgid "http://supsystic.com/"
+msgstr "http://supsystic.com/"
+
+#. Author of the plugin
+msgid "supsystic.com"
+msgstr "supsystic.com"
+
+#. Description of the plugin
+msgid "Pricing Table generator by Supsystic allow you to create responsive pricing tables or comparison table without any programming skills"
+msgstr "Supsystic的定价表生成器允许您创建响应式定价表或比较表，而无需任何编程技能"
+
+#. Plugin URI of the plugin
+msgid "https://supsystic.com/plugins/pricing-table/"
+msgstr "https://supsystic.com/plugins/pricing-table/"
+
+#. Plugin Name of the plugin
+msgid "Pricing Table by Supsystic"
+msgstr "Pricing Table by Supsystic"
