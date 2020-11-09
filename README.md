@@ -1,7 +1,7 @@
 "# firstWordpress" 
 
 
-what I have done:
+What I have done:
 <ul>
   <li>1、Spin up WordPress via PhpStudy.</li>
   <li>2、Bulid a new page from scratch based on 'js_launch.png'.</li>
